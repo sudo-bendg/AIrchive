@@ -18,3 +18,7 @@
 ## Status  
 
 AIrchive is currently in the **planning phase**, with development starting as a **CLI tool**. Future enhancements may include image analysis and expanded AI capabilities.  
+
+### A disclaimer
+
+It is probably worth noting that this is just going to be a GPT wrapper.
